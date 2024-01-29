@@ -1,0 +1,8 @@
+keycloak:
+  url: http://localhost:9080
+  realm: development
+  clientId: a64b9e90-38a6-477c-99de-ba57dcfd1988
+  clientSecret: VdaarfwLy75agt24Qc7iJMWYWlrdw4fz
+
+rabbitmq:
+  connection-timeout: 10000
