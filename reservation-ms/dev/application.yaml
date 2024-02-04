@@ -1,0 +1,9 @@
+mongodb:
+  database: reservation-db
+
+rabbitmq:
+  connection-timeout: 10000
+
+cache:
+  ttl:
+    minutes: 10
